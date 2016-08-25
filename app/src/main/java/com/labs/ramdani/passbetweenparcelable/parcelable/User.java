@@ -1,4 +1,4 @@
-package com.labs.ramdani.passbetweenparceable.parceable;
+package com.labs.ramdani.passbetweenparcelable.parcelable;
 
 import android.os.Parcel;
 import android.os.Parcelable;

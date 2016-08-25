@@ -1,5 +1,5 @@
-# Pass Data Between Parceable
-Sample code passing data between with parceable
+# Pass Data Between Parcelable
+Example code passing data between activity with parcelable
 
 ## Screenshot
 

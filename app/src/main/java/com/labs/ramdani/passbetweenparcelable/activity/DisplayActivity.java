@@ -1,4 +1,4 @@
-package com.labs.ramdani.passbetweenparceable.activity;
+package com.labs.ramdani.passbetweenparcelable.activity;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -7,8 +7,8 @@ import android.util.Log;
 import android.view.MenuItem;
 import android.widget.TextView;
 
-import com.labs.ramdani.passbetweenparceable.R;
-import com.labs.ramdani.passbetweenparceable.parceable.User;
+import com.labs.ramdani.passbetweenparcelable.R;
+import com.labs.ramdani.passbetweenparcelable.parcelable.User;
 
 /**
  * Created by ramdani on 8/23/16.
